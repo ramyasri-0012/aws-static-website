@@ -1,2 +1,16 @@
-# aws-static-website
-This project is a simple static website created using HTML and CSS. The website was developed in Visual Studio Code and displays a welcome message for AWS static website hosting. The main purpose of this project is to learn how to create a basic webpage and understand static website hosting using Amazon S3 and GitHub. 
+# AWS Static Website Hosting
+
+## Objective
+To host a static website using Amazon S3.
+
+## Technologies Used
+ HTML
+ CSS
+AWS S3
+
+## Files Included
+index.html
+README.md
+
+## Output
+A static webpage displaying a welcome message.
